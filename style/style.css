@@ -1,0 +1,9 @@
+tr, td {
+    text-align: center !important;
+    vertical-align: center !important;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 180px;
+    width: 220px;
+}
