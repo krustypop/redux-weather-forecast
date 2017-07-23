@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
 ### Getting Started
 
 There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
 ```
 > npm install
 > npm start
 ```
+
+### This app uses :
+
+This app needs to have theese two API keys :
+- [OpenWeather](https://openweathermap.org/api) API key
+- [Google Platform Console](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjk0b3Lpp_VAhWHlxoKHdbLBz4QFgg1MAA&url=https%3A%2F%2Fconsole.cloud.google.com%2F%3Fhl%3Dfr&usg=AFQjCNGMLR1hpJBE10EDpsvQ3rNsafyI6g) API key
